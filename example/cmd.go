@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"goping"
 	"os"
 	"time"
+
+	"github.com/Superredstone/goping"
 )
 
 func main() {
